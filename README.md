@@ -1,7 +1,7 @@
 
 My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀
 
-I'm Nam 🌻, and I am an avid programmer. 
+I'm Nam 🌻, and I am an avid developer. 
 
 I'm passionate about 🕸 web development. 
 
