@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="./NamLogo.png"/>
+</p>
+
 My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀
 
 I'm Nam 🌻, and I am an avid developer. 
