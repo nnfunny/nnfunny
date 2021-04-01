@@ -7,8 +7,8 @@ My favorite quote: “The only constant is change” - The Greek philosopher Her
 
 I'm Nam 🌻, and I am an avid developer. 
 
-I'm passionate about 🕸 web development. 
-
+I'm passionate about 🕸 web development (React). 
+ 
 I'm currently learning more about 👾 2D game development and 🌈 computer graphics.
 
 I'd love to collaborate on web, game and computer graphics projects. 😄
