@@ -18,8 +18,8 @@
       <samp>
          <a href="https://github.com/nnfunny?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Code-000000?style=flat"></a>
          <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=html" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white"></a>
-         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=javascript" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat&logo=JavaScript&logoColor=000"></a>
          <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=css" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"></a>
+         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=javascript" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat&logo=JavaScript&logoColor=000"></a>
          <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=typescript" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Typescript-3178c6?style=flat&logo=TypeScript&logoColor=white"></a>
          <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=c%2B%2B" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2B%2B&logoColor=white"></a>
          <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=java" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"></a>
