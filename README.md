@@ -3,31 +3,36 @@
   <img src="./NamLogo.png"/>
 </p>
 
-My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀
+<h3 align="center"><samp>Hi, there 🌸! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://namnguyen.in/">Nam</a></b></samp></h3>
 
-I'm Nam 🌻, and I am an avid developer 🍀. 
+<p align="center"><br>
+  <samp>
+    ▞ React Developer ❄️ ▚ <br>
+    ▞ Compter Science Student @ 🌻 <b>Deakin Unversity</b> ▚ <br>
+  </samp>
+</p>
 
-I'm passionate about 🕸 web development (React). 
- 
-I'm currently learning more about 👾 2D game development and 🌈 computer graphics.
-
-I'd love to collaborate on web, game and computer graphics projects. 😄
-
-Visit my website 🌱 to learn more about me: [namnguyen.in](https://namnguyen.in/)
-
-Thanks for visiting my repository. Take care, stay safe and be happy. 😊
-
-<!--
-**nnfunny/nnfunny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center">
+   <summary> <samp>Learn more about me 😆</samp></summary>
+   <p align="center"><br>
+      <samp>
+         <a href="https://github.com/nnfunny?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Code-000000?style=flat"></a>
+         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=html" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-HTML5-e34f26?style=flat&logo=HTML5&logoColor=white"></a>
+         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=javascript" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat&logo=JavaScript&logoColor=000"></a>
+         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=css" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"></a>
+         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=typescript" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Typescript-3178c6?style=flat&logo=TypeScript&logoColor=white"></a>
+         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=c%2B%2B" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2B%2B&logoColor=white"></a>
+         <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=java" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"></a>
+         <br>
+         <img src="https://github-readme-stats.vercel.app/api?username=nnfunny&show_icons=true&hide_border=true&hide=issues&theme=tokyonight"></img><br>
+      </samp>
+        <p><samp>My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀</samp><p/>
+        <p><samp>I'm passionate about 🕸 web development (React). </samp></p>  
+        <p><samp>I'm currently learning more about 👾 2D game development and 🌈 computer graphics.</samp></p>
+        <p><samp>I'd love to collaborate on web, game and computer graphics projects. 🤝</samp></p>
+  </p>
+</details>
+<p align="center">
+  ════ 𐫰 ════ <br>
+  <samp>Thanks for visiting my repository. Take care, stay safe and be happy. 😊</samp>
+<p>
