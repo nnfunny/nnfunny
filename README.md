@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./NamLogo.png"/>
+  <img src="./NamLogo.pg"/>
 </p>
 
 <h3 align="center"><samp>Hi, there 🌸! I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://namnguyen.in/">Nam</a></b></samp></h3>
