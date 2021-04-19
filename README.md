@@ -30,7 +30,7 @@
         <p><samp>I'm passionate about 🕸 web development (React). </samp></p>  
         <p><samp>I'm currently learning more about 👾 2D game development and 🌈 computer graphics.</samp></p>
         <p><samp>I'd love to collaborate on web, game and computer graphics projects. 🤝</samp></p>
-  </p>
+   </p>
 </details>
 <p align="center">
   ════ 𐫰 ════ <br>
