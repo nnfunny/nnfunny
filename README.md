@@ -24,7 +24,7 @@
          <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=c%2B%2B" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-C++-00599c?style=flat&logo=c%2B%2B&logoColor=white"></a>
          <a href="https://github.com/nnfunny?tab=repositories&q=&type=&language=java" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white"></a>
          <br>
-         <img src="https://github-readme-stats.vercel.app/api?username=nnfunny&show_icons=true&hide_border=true&hide=issues&theme=tokyonight"></img><br>
+         <img alt="github readme stats" src="https://github-readme-stats.vercel.app/api?username=nnfunny&show_icons=true&hide_border=true&hide=issues&theme=tokyonight"><br>
       </samp>
         <p><samp>My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀</samp><p/>
         <p><samp>I'm passionate about 🕸 web development (React). </samp></p>  
