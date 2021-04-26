@@ -13,7 +13,7 @@
 </p>
 
 <details align="center">
-   <summary align="center"> <samp>Learn more about me 😆</samp></summary>
+   <summary><samp><p align="center">Learn more about me 😆</p></samp></summary>
    <p align="center"><br>
       <samp>
          <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/nnfunny?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Code-000000?style=flat"></a>
