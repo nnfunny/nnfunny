@@ -13,7 +13,7 @@
 </p>
 
 <details align="center">
-   <summary> <samp>Learn more about me 😆</samp></summary>
+   <summary> <samp align="center">Learn more about me 😆</samp></summary>
    <p align="center"><br>
       <samp>
          <a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/nnfunny?tab=repositories" target="_blank"><img alt="repositories" src="https://img.shields.io/badge/-Code-000000?style=flat"></a>
@@ -30,10 +30,10 @@
          <a rel="nofollow noopener noreferrer" target="_blank" href="https://github-readme-stats.vercel.app/api?username=nnfunny&show_icons=true&hide_border=true&hide=issues&theme=tokyonight" >Gitub Stats</a>
           -->
       </samp>
-        <p align="left"><samp>My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀</samp><p/>
-        <p align="left"><samp>I'm passionate about 🕸 web development (React). </samp></p>  
-        <p align="left"><samp>I'm currently learning more about 👾 2D game development and 🌈 computer graphics.</samp></p>
-        <p align="left"><samp>I'd love to collaborate on web, game and computer graphics projects. 🤝</samp></p>
+      <p align="center"><samp>My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀</samp><p/>
+      <p align="center"><samp>I'm passionate about 🕸 web development (React). </samp></p>  
+      <p align="center"><samp>I'm currently learning more about 👾 2D game development and 🌈 computer graphics.</samp></p>
+      <p align="center"><samp>I'd love to collaborate on web, game and computer graphics projects. 🤝</samp></p>
    </p>
 </details>
 <p align="center">
