@@ -39,4 +39,4 @@
 <p align="center">
   ════ 𐫰 ════ <br>
   <samp>Thanks for visiting my repository. Take care, stay safe and be happy. 😊</samp>
-<p>
+</p>
