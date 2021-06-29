@@ -53,13 +53,13 @@
 <br>
 <br>
 <h2>Others</h2>
-<p>
-  <p>My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀</p>
-  <p>I'm passionate about software development 👨🏻‍💻.</p>  
-  <p>I'm currently learning more about 👾 2D game development and 🌈 computer graphics.</p>
-  <p>I'm learning more in-depth knowledge about design pattern 🗳 in software development.</p>
-  <p>I'd love to collaborate on web, game and computer graphics projects. 🤝</p>
-</p>
+<ul>
+  <li>My favorite quote: “The only constant is change” - The Greek philosopher Heraclitus 🍀</li>
+  <li>I'm passionate about software development 👨🏻‍💻.</li>  
+  <li>I'm currently learning more about 👾 2D game development and 🌈 computer graphics.</li>
+  <li>I'm learning more in-depth knowledge about design pattern 🗳 in software development.</li>
+  <li>I'd love to collaborate on web, game and computer graphics projects. 🤝</p>
+</ul>
 
 <br>
 <br>
